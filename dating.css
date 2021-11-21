@@ -1,0 +1,28 @@
+body {
+    background-color: lavender;
+}
+
+#title{
+    background-color: burlywood;
+    text-align: center;
+}
+p1.center {
+    background-color: lightcoral;
+    color: cadetblue;
+}
+p2.center {
+    background-color: lightcoral;
+    color: chartreuse;
+}
+p3.center {
+    background-color: lightcoral;
+    color: lightseagreen;
+}
+p4.center {
+    background-color: lightyellow;
+    color: maroon;
+}
+p5.center{
+    background-color: mintcream;
+    color: navy;
+}
